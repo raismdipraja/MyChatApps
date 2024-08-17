@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "805639345577",
+    "firebase_url": "https://mychat-c4c94-default-rtdb.firebaseio.com",
+    "project_id": "mychat-c4c94",
+    "storage_bucket": "mychat-c4c94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805639345577:android:ff3b9aa845a3f0101f20b8",
+        "android_client_info": {
+          "package_name": "com.mychatmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805639345577-l4li2vpeb14uft5mtptveutvgqkqf6vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv1gfbCIf-deDA-_5e6ejmnEMODZWMNWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805639345577-l4li2vpeb14uft5mtptveutvgqkqf6vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
